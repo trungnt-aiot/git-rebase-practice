@@ -3,3 +3,6 @@
 ### Add to Cart
 ### Comment component
 ### Add a comment
+### Advanced Feature
+### Implementation Details
+### Tests
