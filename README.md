@@ -1,4 +1,4 @@
 ### User Profile
 
 ### Comment component
-### Add a commnet
+### Add a comment
