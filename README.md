@@ -2,4 +2,4 @@
 ### Shopping Cart
 ### Add to Cart
 ### Comment component
-### Add a commnet
+### Add a comment
